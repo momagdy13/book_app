@@ -1,5 +1,5 @@
 import 'package:book_app/constans.dart';
-import 'package:book_app/feature/splash/presentaion/view_models/view/splash_view.dart';
+import 'package:book_app/feature/splash/presentaion/view/view_modles/splash_view.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 
